@@ -23,7 +23,7 @@ export function Pagination({
   return (
     <div className="flex items-center justify-between">
       <span className="ml-4 text-sm text-muted-foreground">
-      Página {pageIndex + 1} de {pages}
+      Page {pageIndex + 1} of {pages}
       </span>
 
       <div className="flex items-center gap-4 lg:gap-8 ">
