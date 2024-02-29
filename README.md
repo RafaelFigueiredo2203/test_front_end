@@ -41,5 +41,5 @@ Este projeto foi um teste para vaga de Desenvolvedor Front-End , onde gostei mui
 - Inicie o servidor com `yarn start` ou `npm start`
 
 
-Never Stop Learning.🚀 🚀 🚀 
+Never Stop Learning.🚀 🚀
 
