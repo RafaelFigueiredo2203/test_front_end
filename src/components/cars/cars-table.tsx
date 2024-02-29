@@ -27,7 +27,7 @@ export function CarsTable() {
                   <TableHead className="hidden whitespace-nowrap w-[287px] md:font-semibold lg:table-cell">NEXT RESERVATION</TableHead>
                   <TableHead className="hidden whitespace-nowrap w-[287px] font-semibold md:table-cell">Status</TableHead>
                   <TableHead className="hidden whitespace-nowrap w-[287px] font-semibold cSm:table-cell">RATING</TableHead>
-                  <TableHead className="hidden whitespace-nowrap w-[91px] minWidth:table-cell" font-semibold>ACTIONS</TableHead>
+                  <TableHead className="hidden whitespace-nowrap w-[91px] font-semibold minWidth:table-cell" font-semibold>ACTIONS</TableHead>
 
                 </TableRow>
               </TableHeader>
